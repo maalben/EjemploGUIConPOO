@@ -3,8 +3,9 @@ package menu;
 import opciones.operacionesmatematicas.OperacionesMatematicas;
 
 import javax.swing.*;
+import java.awt.*;
 
-public class Menu extends JFrame {
+public class Menu extends Frame {
     private JPanel menuprincipal;
     private JButton operacionesMatematicasButton;
 
